@@ -70,8 +70,8 @@ light: #2cbfac
 dark: #2cbfac
 
 -- ftd.color cta-primary-border-:
-light: #2b8074
-dark: #2b8074
+light: #362FD9
+dark: #362FD9
 
 -- ftd.color cta-primary-text-:
 light: #feffff
@@ -107,11 +107,11 @@ light: #4fb1df
 dark: #4fb1df
 
 -- ftd.color cta-secondary-border-:
-light: #209fdb
-dark: #209fdb
+light: #362FD9
+dark: #362FD9
 
 -- ftd.color cta-secondary-text-:
-light: #ffffff
+light: #362FD9
 dark: #ffffff
 
 -- ftd.cta-colors cta-secondary-:
