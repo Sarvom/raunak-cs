@@ -1,6 +1,6 @@
 -- ftd.color base-:
-light: #18181b
-dark: #18181b
+light: #FFFFFF
+dark: #0F121F
 
 -- ftd.color step-1-:
 light: #141414
@@ -50,8 +50,8 @@ light: #007f9b
 dark: #007f9b
 
 -- ftd.color cta-primary-base-:
-light: #2dd4bf
-dark: #2dd4bf
+light: #362FD9
+dark: #362FD9
 
 -- ftd.color cta-primary-hover-:
 light: #2c9f90
@@ -283,40 +283,40 @@ text: $warning-text-
 border: $warning-border-
 
 -- ftd.color custom-one-:
-light: #ed753a
-dark: #ed753a
+light: #CD4A88
+dark: #CD4A88
 
 -- ftd.color custom-two-:
-light: #f3db5f
-dark: #f3db5f
+light: #7CCD4A
+dark: #7CCD4A
 
 -- ftd.color custom-three-:
-light: #8fdcf8
-dark: #8fdcf8
+light: #4AA6CD
+dark: #4AA6CD
 
 -- ftd.color custom-four-:
-light: #55268d
-dark: #55268d
+light: #CD814A
+dark: #CD814A
 
 -- ftd.color custom-five-:
-light: #eb57be
-dark: #eb57be
+light: #A34ACD
+dark: #A34ACD
 
 -- ftd.color custom-six-:
-light: #ef8dd6
-dark: #ef8dd6
+light: #CD4A4A
+dark: #CD4A4A
 
 -- ftd.color custom-seven-:
-light: #673c9b
-dark: #673c9b
+light: #BBCD4A
+dark: #BBCD4A
 
 -- ftd.color custom-eight-:
-light: #d554b3
-dark: #d554b3
+light: #4ACDCD
+dark: #4ACDCD
 
 -- ftd.color custom-nine-:
-light: #ec8943
-dark: #ec8943
+light: #4ECC39
+dark: #4ECC39
 
 -- ftd.color custom-ten-:
 light: #da7a4a
