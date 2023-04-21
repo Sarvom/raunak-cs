@@ -3,8 +3,8 @@ light: #FFFFFF
 dark: #0F121F
 
 -- ftd.color step-1-:
-light: #909192
-dark: #FFFFFF
+light: #F1F3F8
+dark: #191D30
 
 -- ftd.color step-2-:
 light: #141516
@@ -26,19 +26,19 @@ overlay: $overlay-
 code: $code-
 
 -- ftd.color border-:
-light: #434547
-dark: #434547
+light: #362FD9
+dark: #362FD9
 
 -- ftd.color border-strong-:
-light: #919192
-dark: #919192
+light: #362FD9
+dark: #362FD9
 
 -- ftd.color text-:
-light: #a8a29e
-dark: #a8a29e
+light: #141516
+dark: #ffffff
 
 -- ftd.color text-strong-:
-light: #ffffff
+light: #141516
 dark: #ffffff
 
 -- ftd.color shadow-:
@@ -124,8 +124,8 @@ border: $cta-secondary-border-
 text: $cta-secondary-text-
 
 -- ftd.color cta-tertiary-base-:
-light: #556375
-dark: #556375
+light: #909192
+dark: #FFFFFF
 
 -- ftd.color cta-tertiary-hover-:
 light: #c7cbd1
