@@ -3,12 +3,12 @@ light: #FFFFFF
 dark: #0F121F
 
 -- ftd.color step-1-:
-light: #141414
-dark: #141414
+light: #909192
+dark: #FFFFFF
 
 -- ftd.color step-2-:
-light: #585656
-dark: #585656
+light: #141516
+dark: #FFFFFF
 
 -- ftd.color overlay-:
 light: rgba(0, 0, 0, 0.8)
