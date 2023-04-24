@@ -148,7 +148,7 @@ light: #e2e4e7
 dark: #e2e4e7
 
 -- ftd.color cta-tertiary-text-:
-light: #ffffff
+light: #362FD9
 dark: #ffffff
 
 -- ftd.cta-colors cta-tertiary-:
