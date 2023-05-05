@@ -99,8 +99,8 @@ light: #4fb2df
 dark: #4fb2df
 
 -- ftd.color cta-secondary-disabled-:
-light: rgba(79, 178, 223, 0.1)
-dark: rgba(79, 178, 223, 0.1)
+light: #4fb1df
+dark: #4fb1df
 
 -- ftd.color cta-secondary-focused-:
 light: #4fb1df
@@ -136,8 +136,8 @@ light: #3b4047
 dark: #3b4047
 
 -- ftd.color cta-tertiary-disabled-:
-light: rgba(85, 99, 117, 0.1)
-dark: rgba(85, 99, 117, 0.1)
+light: #3b4047
+dark: #3b4047
 
 -- ftd.color cta-tertiary-focused-:
 light: #e0e2e6
